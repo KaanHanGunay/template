@@ -1,0 +1,8 @@
+{
+  "generator-jhipster:7.1.0": {
+    "promptValues": {
+      "packageName": "tr.com.khg.template",
+      "nativeLanguage": "tr"
+    }
+  }
+}
